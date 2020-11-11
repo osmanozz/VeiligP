@@ -16,7 +16,7 @@
                                                             <!-- En de de tekst coole website verschijnt voor mijn echo -->
                                                             <!-- OPDR3 == Met htmlspeacialchars kan je XSS injecties voorkomen -->
     
-</body>
+</body> 
 </html>
 
 <?php
